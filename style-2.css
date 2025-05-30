@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+.first {
+    background-color: blue;
+    border-radius: 2%;
+    color: white;
+}
+
+.second {
+    background-color: blueviolet;
+    border-radius: 2%;
+    color: white;
+}
+
+.third {
+    background-color: rebeccapurple;
+    border-radius: 2%;
+    color: white;
+}
